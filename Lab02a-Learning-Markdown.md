@@ -1,4 +1,4 @@
-'[HOME](README.md)'
+'[HOME](README.md)'<br/>
 **Growth mindset**
 
 A growth mindset means to believe that you can develop your abilities through effort, it also means a love of learning.

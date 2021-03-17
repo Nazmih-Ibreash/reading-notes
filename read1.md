@@ -1,4 +1,6 @@
-'[HOME](README.md)'
+'[HOME](README.md)'<br/>
+
+## The Coder's Computer
 
 The command line is simply an interface where you can enter command by typing them  and then they will be performed and may give a feedback. the terminal is full of shotcuts that make the life easier and save you from silly mistakes .
 
