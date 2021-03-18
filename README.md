@@ -11,4 +11,5 @@ Table of content:<br/>
 | Lab02a     | [Learning Markdown](Lab02a-Learning-Markdown.md) |  
 | Read02a    | [Learning Markdown](read02a.md)                  |   
 | Read02b    | [Revisions and the Cloud](read02b.md)            |   
-| Read03a    | [Structure Web Pages With HTML](read03a.md)      | 
+| Read03a    | [Structure Web Pages With HTML](read03a.md)      |
+| Read04a    | [Programming with JavaScript](read04a.md)      |  

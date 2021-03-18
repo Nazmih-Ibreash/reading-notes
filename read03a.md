@@ -1,7 +1,10 @@
 '[HOME](README.md)'<br/>
 
- # Structure Web Pages With HTML
+ # Structure Web Pages With HTML 
+ <br/>
+ 
  ## HTML & CSS Structure
+ <br/>
 
  * HTML pages are text documents
  * HTML uses tags (characters that sit inside angled
