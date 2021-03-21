@@ -1,7 +1,6 @@
 '[HOME](README.md)'<br/>
 
  # Programming with JavaScript 
- <br/>
  
  ## INTRODUCTION
  <br/>
