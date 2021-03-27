@@ -1,4 +1,4 @@
-'[HOME](README.md)'<br/>
+'[HOME](../README.md)'<br/>
 ## Revisions and the Cloud 
 
 Version Control is a system that allows you to store various versions of a file or set of files by recording changes.

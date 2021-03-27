@@ -1,4 +1,4 @@
-'[HOME](README.md)'<br/>
+'[HOME](../README.md)'<br/>
 
 ## Design web pages with CSS
 
