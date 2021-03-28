@@ -3,7 +3,7 @@
 ## Introductory HTML and JavaScript
 
 * This book explains how JavaScript can be used in browsers to make websites more 
-    interactive,interesting, and user-friendly, through access and modify content, 
+    interactive, interesting, and user-friendly, through access and modify content, 
     program rules and react to events.
 
  * EXAMPLES OF JAVASCRIPT IN THE BROWSER :

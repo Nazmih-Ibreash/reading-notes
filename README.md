@@ -20,7 +20,8 @@ Table of content:<br/>
 ## Code 201 Reading Notes
 Table of content:<br/>
 
-| Assignment | Link                                                              |  
-|------------| ------------------------------------------------------------------|
-| Read01a    | [Introductory HTML and JavaScript](code-201/read01a.md)           |   
+| Assignment | Link                                                                                 |  
+|------------| -------------------------------------------------------------------------------------|
+| Read01     | [Introductory HTML and JavaScript](code-201/read01a.md)                              | 
+| Read02     | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](code-201/read01a.md)|    
 
