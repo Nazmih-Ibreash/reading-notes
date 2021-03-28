@@ -23,5 +23,5 @@ Table of content:<br/>
 | Assignment | Link                                                                                 |  
 |------------| -------------------------------------------------------------------------------------|
 | Read01     | [Introductory HTML and JavaScript](code-201/read01a.md)                              | 
-| Read02     | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](code-201/read01a.md)|    
+| Read02     | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](code-201/read2.md)  |    
 
