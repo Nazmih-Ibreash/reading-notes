@@ -24,4 +24,5 @@ Table of content:<br/>
 |------------| -------------------------------------------------------------------------------------|
 | Read01     | [Introductory HTML and JavaScript](code-201/read01a.md)                              | 
 | Read02     | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](code-201/read2.md)  |    
+| Read03     | [Introductory HTML and JavaScript](code-201/read3.md)                              | 
 
