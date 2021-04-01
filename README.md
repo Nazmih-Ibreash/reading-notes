@@ -25,6 +25,18 @@ Table of content:<br/>
 | Read01     | [Introductory HTML and JavaScript](code-201/read01a.md)                              | 
 | Read02     | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](code-201/read2.md)  |    
 | Read03     | [HTML Lists, Control Flow with JS, and the CSS Box Model](code-201/read3.md)         | 
-| Read04     | [HTML Links, CSS Layout, JS Functions](code-201/read4.md)                            | 
+| Read04     | [HTML Links, CSS Layout, JS Functions](code-201/read4.md)                            |
+| Read05     | [HTML Images; CSS Color & Text](code-201/read5.md)                                   | 
+| Read06     |                                                                                      | 
+| Read07     |                                                                                      | 
+| Read08     |                                                                                      |  
+| Read09     |                                                                                      | 
+| Read10     |                                                                                      | 
+| Read11     |                                                                                      | 
+| Read12     |                                                                                      | 
+| Read13     |                                                                                      | 
+| Read14     |                                                                                      | 
+| Read15     |                                                                                      | 
+
 
 
