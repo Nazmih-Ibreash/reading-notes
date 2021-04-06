@@ -29,7 +29,7 @@ Table of content:<br/>
 | Read05     | [HTML Images; CSS Color & Text](code-201/read5.md)                                   | 
 | Read06     |                                                                                      | 
 | Read07     |                                                                                      | 
-| Read08     |                                                                                      |  
+| Read08     |  [More CSS Layout](code-201/read8.md)                                                |                                                        |  
 | Read09     |                                                                                      | 
 | Read10     |                                                                                      | 
 | Read11     |                                                                                      | 
