@@ -31,7 +31,7 @@ Table of content:<br/>
 | Read07     |                                                                                      | 
 | Read08     | [More CSS Layout](code-201/read8.md)                                                 |    
 | Read09     |                                                                                      | 
-| Read10     | [More CSS Layout](code-201/read10.md)                                                 | 
+| Read10     | [JS Debugging](code-201/read10.md)                                                   | 
 | Read11     |                                                                                      | 
 | Read12     |                                                                                      | 
 | Read13     |                                                                                      | 
