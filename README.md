@@ -34,8 +34,8 @@ Table of content:<br/>
 | Read10     | [JS Debugging](code-201/read10.md)                                                   | 
 | Read11     | [Audio, Video, Images](code-201/read11.md)                                           | 
 | Read12     | [Docs for the HTML <canvas> Element & Chart.js](code-201/read12.md)                  | 
-| Read13     |                                                                                      | 
-| Read14     |                                                                                      | 
+| Read13     | [Local Storage](code-201/read13.md)                                                  | 
+| Read14     | [CSS Transforms, Transitions, and Animations](code-201/read14.md)                    | 
 | Read15     |                                                                                      | 
 
 
