@@ -7,13 +7,15 @@
 
 * HTML5 storage refer to local storage or DOM storage, it is based on named key/value pairs, it is limit is 5 megabytes
     * check for html5 storage:
-    >> function supports_html5_storage() { <br>
-     try {<br>
+     ```
+     function supports_html5_storage() { 
+     try {
      return 'localStorage' in window && window['localStorage'] !== null;<br>
      } catch (e) {<br>
      return false;<br>
-     }<br>
-     }<br>
+     }
+     }
+     ```
 * to keep track programmatically of when the storage area changes, we can use the `storage event` , storage event properties: 
     * key
     * old value
